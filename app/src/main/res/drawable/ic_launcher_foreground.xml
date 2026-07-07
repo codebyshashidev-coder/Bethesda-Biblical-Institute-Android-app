@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewBox="0 0 108 108">
+    <!-- Gold cross, centered within the adaptive-icon safe zone -->
+    <path
+        android:fillColor="#C8A44D"
+        android:pathData="M49,24 L59,24 L59,44 L79,44 L79,54 L59,54 L59,84 L49,84 L49,54 L29,54 L29,44 L49,44 Z" />
+    <path
+        android:fillColor="#DEC07A"
+        android:strokeColor="#DEC07A"
+        android:strokeWidth="1"
+        android:pathData="M49,24 L59,24 L59,44 L79,44 L79,54 L59,54 L59,84 L49,84 L49,54 L29,54 L29,44 L49,44 Z"
+        android:fillAlpha="0"
+        android:strokeAlpha="0.4" />
+</vector>
