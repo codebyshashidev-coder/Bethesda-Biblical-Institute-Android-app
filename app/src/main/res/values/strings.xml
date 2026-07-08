@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bethesda Biblical Institute</string>
+
+    <!-- Change this single value if the site ever moves to a new domain -->
+    <string name="base_url" translatable="false">https://bethesdabiblicalinstitute.com/</string>
+    <string name="news_api_url" translatable="false">https://bethesdabiblicalinstitute.com/api/news.php</string>
+    <string name="admissions_url" translatable="false">https://bethesdabiblicalinstitute.com/admissions.php</string>
+    <string name="affiliation_url" translatable="false">https://bethesdabiblicalinstitute.com/affiliation.php</string>
+    <string name="login_url" translatable="false">https://bethesdabiblicalinstitute.com/login.php</string>
+    <string name="certificate_url" translatable="false">https://bethesdabiblicalinstitute.com/certificate.php</string>
+    <string name="diploma_url" translatable="false">https://bethesdabiblicalinstitute.com/diploma-in-theology.php</string>
+    <string name="bachelor_url" translatable="false">https://bethesdabiblicalinstitute.com/bachelor-theology.php</string>
+    <string name="master_url" translatable="false">https://bethesdabiblicalinstitute.com/Master-of-Divinity-Subject.php</string>
+    <string name="doctoral_url" translatable="false">https://bethesdabiblicalinstitute.com/doctor-of-divinity.php</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_admissions">Admissions</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="no_internet_title">You\'re offline</string>
+    <string name="no_internet_message">Please check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="downloading">Downloading…</string>
+</resources>
